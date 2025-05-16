@@ -6,7 +6,7 @@ int main() {
 
     setlocale(LC_ALL, "RU");
     string input;
-    cout << "Введите строку: ";
+    cout << "Введите строку: "; // Text changed
     getline(cin, input);
 
     int length = input.length();
