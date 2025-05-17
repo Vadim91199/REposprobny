@@ -19,7 +19,7 @@ int main() {
                 result += ch;
             }
         }
-        cout << "Результат: " << result << endl;
+        cout << "Результат: " << result << endl; // Text changed
     }
     else {
         cout << "Строка не требует изменений." << endl;
